@@ -1,3 +1,4 @@
+package src;
 public class Pattern {
 
     public static void triangle(int n) {
